@@ -1,0 +1,85 @@
+Hi Pawan,
+Here are the details for the Senior Engineer – Product Delivery role at Appnomic.
+
+Phone on file: +918802196040
+
+This page is available until June 11, 2026
+
+Next Steps
+L1 Evaluation - Senior Engineer – Product Delivery
+Fill the Form
+Experience
+3 - 8 years
+Location
+Delhi/Mumbai
+Job Type
+Office
+We are seeking a Senior Engineer – Product Delivery to join our team in Delhi. As a technical specialist, you will work with our strategic clients to implement and optimize AppsOne solutions. This role requires 4-8 years of experience in IT Management, Application Performance Management, and hands-on expertise with Unix-based systems, Docker, Cassandra, and enterprise application servers.
+
+About the Role
+About the Role
+
+We are looking for a Senior Engineer – Product Delivery to join Appnomic as a technical specialist working with our strategic clients. You will be responsible for implementing, configuring, and optimizing AppsOne solutions to monitor client applications and infrastructure.
+
+Key Responsibilities
+
+Develop a deep understanding of the AppsOne solution suite and its capabilities through training and hands-on experience
+Understand and document client application landscape and infrastructure
+Gather details of known application and infrastructure outages and pain points
+Understand customers' requirements and translate them into specific monitoring requirements
+Review implementation plans and obtain sign-off from client project managers
+Perform hands-on implementation and configuration of AppsOne to monitor client applications and infrastructure
+Ensure on-time delivery of tasks and completion of AppsOne implementation milestones
+Analyze alerts and issues identified by AppsOne to prepare detailed Root Cause Analysis reports
+Fine-tune AppsOne configuration based on analysis of alerts
+Provide insights to clients on infrastructure changes and enhancements based on AppsOne analysis
+Train clients and Appnomic monitoring teams on AppsOne features and proactive monitoring capabilities
+Document best practices for deploying AppsOne in customer environments
+Track support requirements and interface with AppsOne support team for quick resolutions
+Manage AppsOne patch updates and upgrades on an ongoing basis
+Ensure complete deployment documentation of AppsOne in client environments
+Continuously monitor and improve deployments
+Troubleshoot configuration, environment, and application server issues
+Lead regular meetings with clients and internal stakeholders
+Provide feedback to engineering and product management teams for product improvements
+Required Qualifications
+
+4-8 years of professional experience
+Hands-on experience in IT Management or Application Performance Management (APM)
+Proficiency with Unix-based operating systems (Linux, AIX, Solaris, or HPUX)
+Hands-on experience with Docker and Cassandra
+Demonstrated experience with popular APM tools
+Hands-on experience with application servers: Tomcat, JBoss, WebSphere, or WebLogic
+Familiarity with database administration (MySQL, Oracle, or MSSQL Server)
+Ability to independently write and troubleshoot scripts in Shell, Bash, Perl, or SQL
+Capability to create and execute basic database SQL queries, Stored Procedures, or Oracle Replication
+Basic System Administrator skills including shell scripting and automation
+Bachelor's Degree in Engineering (Computer Science, Electronics) or Master's Degree in Computer Applications (MCA)
+Professional experience in one or more business domains: Banking, Ecommerce, or Manufacturing
+Ability to gather customer requirements and translate them into clear Statements of Work (SOW)
+1-2 years of experience in customer-facing positions as a professional services consultant or implementation engineer
+Preferred Qualifications
+
+Exposure to AI/ML technologies
+Experience with Windows Server operating system and administration
+Experience working on distributed enterprise software products
+Location & Work Details
+
+Location:Delhi
+
+Employment Type:Full-time, Office-based
+
+Vacancies:1
+
+
+
+About Appnomic
+About Appnomic
+
+Appnomic is an AI-driven company specializing in Application Performance Management and IT Operations solutions. We empower organizations to monitor, analyze, and optimize their complex application and infrastructure environments through intelligent, data-driven insights.
+
+Our AppsOne solution suite is trusted by strategic enterprises across banking, ecommerce, manufacturing, and other critical industries to ensure optimal performance, minimize downtime, and drive operational excellence.
+
+We are committed to delivering innovative solutions that help our clients understand and improve their IT infrastructure and application performance in real-time.
+
+Website:https://appnomic.com/
